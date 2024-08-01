@@ -1,8 +1,13 @@
-let num1= 10;
-let num2= 5;
+//Criação de variáveis:
+let nome= "João";
+const idade= 30;
+var cidade= "São Paulo";
 
-if (num1 > num2) {
-    console.log(`Dentre dois números, o maior é: ${num1}`);
-}
-console.log(`Segue o fluxo sequencial`);
-
+//Saída de dados:
+console.log("");
+console.log("Nome do usuário: ", nome);
+console.log("");
+console.log("Idade do usuário: ", idade);
+console.log("");
+console.log("Cidade do usuário: ", cidade);
+console.log("");
