@@ -1,13 +1,11 @@
-//Testando os Operadores:
-let a= 10;
-let b= 5;
+let nota1=8;
+let nota2=10;
 
-//Saída de dados:
-console.log(a + b); // Saída: 15
-console.log(a > b); // Saída: true
-console.log(a == 10 && b==5); // Saída: true
-console.log(a == b || b > a); // Saída: false
-console.log(a != b && a > b); // Saída: true
-console.log(a === b); // Saída: false
-console.log(a == "10"); // Saída: true
-console.log(a === "10"); // Saída: false
+let media= ((nota1 + nota2)/2);
+
+if(media >= 5.0) {
+    console.log(`Você está aprovado(a) com a média ${media}. Parabéns!`);
+} else {
+    console.log(`Você está reprovado(a) com a média: ${media}. Você precisa estudar mais!`);
+    }
+

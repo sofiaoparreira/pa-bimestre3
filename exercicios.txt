@@ -1,0 +1,14 @@
+Exercícios:
+
+1- Desenvolva um algoritmo que receba dois valores e imprima no
+console o maior deles. Usar a estrutura de decisão "IF".
+
+2- Desenvolva um algoritmo para imprimir na tela se o voto doa(a) 
+usuário(a) é obrigatório, sabendo que a idade dele(a) é 18 anos. 
+Usar apenas o IF.
+
+3- Desenvolva um programa para calcular a média de um(a) estudante 
+com base em duas notas. Se a nota for maior ou igual a 7, deverá
+apresentar a mensagem: "Você está aprovado(a) com a média (média
+calculada). Caso contrário, deverá apresentar a mensagem: "Você está
+reprovado(a) com a média (média calculada). Você precisa estudar mais!".
